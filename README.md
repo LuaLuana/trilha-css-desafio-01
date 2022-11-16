@@ -1,3 +1,3 @@
 # trilha-css-desafio-01
 
-Desafio uma landing page
+Desafio construtir uma landing page
